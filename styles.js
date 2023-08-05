@@ -40,6 +40,12 @@ const styles = StyleSheet.create({
     borderRadius: 75,
     marginBottom: 20,
   },
+  avatarDatails: {
+    width: 80,
+    height: 80,
+    borderRadius: 75,
+    marginBottom: 20,
+  },
   name: {
     fontSize: 24,
     fontWeight: "bold",
